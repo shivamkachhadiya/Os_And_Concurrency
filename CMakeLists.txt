@@ -13,4 +13,5 @@ add_executable(Os_Concurrency
         Race_Condition/Race.cpp
         Race_Condition/Lock_Guard.cpp
         DeadLock/printer_scanner_ex.cpp
-        DeadLock/solution_lock.cpp)
+        DeadLock/solution_lock.cpp
+        Produce_Consumer_CV/Producer_Consumer.cpp)
